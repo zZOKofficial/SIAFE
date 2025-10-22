@@ -8,7 +8,7 @@ this repository stops updating at 2025/11/29. If you want to take over it, you c
 
 ## cpp implement of the pseudocode of SIAFE
 
-**[https://github.com/icefox-saber/CLRS-CPP](https://github.com/zZOKofficial/)**
+**[https://github.com/zZOKofficial/SIAFE-CPP](https://github.com/zZOKofficial/SIAFE-CPP)**
 
 ## Getting Started
 
